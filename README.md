@@ -5,7 +5,7 @@ Differential Drive Robot based on the Zumo Robot by Pololu
 Distance sensor detects left edge of object   
 Timer to switch between attack and search modes  
 
-COMPONENTS:
+COMPONENTS:  
 3D Printed Chassis  
 Controller - Baby Orangutan B328 Pololu #1220  
 Adjustable Boost Regulator 2.5-9.5V Pololu #791  
