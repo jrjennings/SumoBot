@@ -3,7 +3,7 @@
 Description:
 Differential Drive Robot based on the Zumo Robot by Pololu  
 Distance sensor detects left edge of object   
-Timer to switch between attack and search modes  
+Timer to switch between roving and scanning modes  
 
 COMPONENTS:  
 3D Printed Chassis  
