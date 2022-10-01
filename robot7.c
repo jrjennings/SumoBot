@@ -3,7 +3,7 @@ Mini SumoBot 7
 left edge of object detection 
 timer to switch between attack and search modes
 
-by John Jennings johnrjennings@me.com
+by John Jennings johnrjennings at me dot com
 
 
 reflectance sensors connected to PD2
