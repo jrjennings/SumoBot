@@ -25,8 +25,7 @@ Mini Slide Switch 3.Pin SPDT, 0.3A Pololu # 1408
 Dozers' blade made from scrap sheet metal.
 
 
-Parts List  
-#########################################  
+Parts List   
 | qty | Name | Discription | Vendor | part # |
 | --- | --- | --- | --- | --- |
 | 1 | Chassis | 3D Printed PLA | Home Made | |
