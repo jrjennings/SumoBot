@@ -22,7 +22,7 @@ Parts List:
 | 1 | Electrolytic Capacitor .47uF 50v | for low pass filter on distance sensor |  |  |
 | 1 | Electrolytic Capacitor 47uF 10v | for robot controller pwr supply to smooth voltage spikes |  |  |
 | 1 | resistor 12Kohm 1/4 watt | for low pass filter on distance sensor |  |  |
-| 1 | NI-MH Battery 4 AA Cells 2200mAh 4.8V | Robot Power Supply | pololu |  |
+| 1 | NI-MH Battery 4 AA Cells 2200mAh 4.8V | Robot Power Supply | pololu | #2221 |
 | 1 | Mini Slide Switch 3 Pin SPDT 0.3A | Power Switch | Pololu | #1408 |
 | 2 | Heavy Duty Nylon Hinges | for Dozer's blade | DU-BRO | #257 |
 | 1 | Dozer Blade | Made from scrap sheet metal ? guage |  |  |
