@@ -1,9 +1,10 @@
 # SumoBot
 
 Description:
-Differential Drive Robot based on the Zumo Robot by Pololu  
-Distance sensor detects left edge of object   
-Timer to switch between roving and scanning modes  
+Differential Drive Robot
+Distance sensor detects left edge of object
+Reflectance Sensors to detect white perimeter of dohyo
+Timer switches between 2 modes, "Rover Mode" where the robot randomly navigates the Dohyo and "Scanning Mode" where the robot rotates in place scanning for the opponent.
 
 
 Parts List:
