@@ -31,12 +31,12 @@ Formula for creating direction value dVal:
 dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1  
 
 | qty  Name | Discription | Vendor | part # |
-|---|---|---|---|---|
-| 1 | Chassis | 3D Printed PLA | Home Made | |  
-| 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |  
-| 000 | L | * 4Way |  
-| 110 | R | Right Turn (no straight path) |  
-| 001 | S | * Left Branch |  
-| 101 | L | Left turn (no straight path) |     
-| 111 | B | * End of line |  
-| 011 | S | Tracking Line |  
+| --- | --- | --- | --- | --- |
+| 1 | Chassis | 3D Printed PLA | Home Made | |
+| 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |
+| 000 | L | * 4Way |   |   |
+| 110 | R | Right Turn (no straight path) |   |   |
+| 001 | S | * Left Branch |   |   |
+| 101 | L | Left turn (no straight path) |   |   |
+| 111 | B | * End of line |   |   |
+| 011 | S | Tracking Line |   |   |
