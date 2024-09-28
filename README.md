@@ -23,3 +23,20 @@ NI-MH Battery 4 AA Cells 2200mAh 4.8V
 Mini Slide Switch 3.Pin SPDT, 0.3A Pololu # 1408
 2ea Heavy Duty nylon hinges DU-BRO Cat. No. 257 (for Dozers' blade)
 Dozers' blade made from scrap sheet metal.
+
+
+Basic MAZE Logic  
+#########################################  
+Formula for creating direction value dVal:  
+dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1  
+
+| qty  Name | Discription | Vendor | part # |
+|---|---|---|---|---|---|
+| 1 | Chassis | 3D Printed PLA | Home Made | |
+| 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |
+| 000 | L | * 4Way |  
+| 110 | R | Right Turn (no straight path) |  
+| 001 | S | * Left Branch |
+| 101 | L | Left turn (no straight path) |     
+| 111 | B | * End of line |
+| 011 | S | Tracking Line |
