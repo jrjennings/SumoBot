@@ -6,14 +6,7 @@ Distance sensor detects left edge of object
 Timer to switch between roving and scanning modes  
 
 COMPONENTS:  
-3D Printed Chassis  
-Controller - Baby Orangutan B328 Pololu #1220  
-Adjustable Boost Regulator 2.5-9.5V Pololu #791  
-silicone tires (home made)
-2ea 150:1 Micro Metal Gearmotors MP Pololu #2368  
-Sharp GP2Y0A21YK0F Analog Distance Sensor 10-80cm Pololu #136  
-3-Pin Female JST PH-Style Cable (30cm) 3-Pin Fema Pololu #117  
-2ea QTR-1A Reflectance Sensors Pololu # 2458    
+
 dip switch (double) for turning off motors Philmore # 30-1002  
 electrolytic capacitor 33uF 25v (on power rail near sensor leads)
 electrolytic Capacitor .47uF 50v(for low pass filter on distance sensor)
