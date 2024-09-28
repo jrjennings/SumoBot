@@ -9,7 +9,7 @@ Timer to switch between roving and scanning modes
 Parts List:
 | qty | Name | Discription | Vendor | part # |
 | --- | --- | --- | --- | --- |
-| 1 | Chassis | 3D Printed PLA | Home Made | |
+| 1 | Chassis | 3D Printed PLA/PETG | Home Made | |
 | 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |
 | 1 | Adjustable Boost Regulator 2.5-9.5V | Voltage Regulator | Pololu | #791 |
 | 2 | Home made Silicone Tires | Silicone 30A & 20A | BBDINO |   |
