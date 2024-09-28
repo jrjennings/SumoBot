@@ -5,20 +5,8 @@ Differential Drive Robot based on the Zumo Robot by Pololu
 Distance sensor detects left edge of object   
 Timer to switch between roving and scanning modes  
 
-COMPONENTS:  
 
-dip switch (double) for turning off motors Philmore # 30-1002  
-electrolytic capacitor 33uF 25v (on power rail near sensor leads)
-electrolytic Capacitor .47uF 50v(for low pass filter on distance sensor)
-electrolytic capacitor 47uF 10v (on controller pwr supply) to smooth voltage spikes
-resistor 12Kohm 1/4 watt (for low pass filter on distance sensor)
-NI-MH Battery 4 AA Cells 2200mAh 4.8V  
-Mini Slide Switch 3.Pin SPDT, 0.3A Pololu # 1408
-2ea Heavy Duty nylon hinges DU-BRO Cat. No. 257 (for Dozers' blade)
-Dozers' blade made from scrap sheet metal.
-
-
-Parts List   
+Parts List:
 | qty | Name | Discription | Vendor | part # |
 | --- | --- | --- | --- | --- |
 | 1 | Chassis | 3D Printed PLA | Home Made | |
@@ -34,4 +22,7 @@ Parts List
 | 1 | Electrolytic Capacitor .47uF 50v | for low pass filter on distance sensor |  |  |
 | 1 | Electrolytic Capacitor 47uF 10v | for robot controller pwr supply to smooth voltage spikes |  |  |
 | 1 | resistor 12Kohm 1/4 watt | for low pass filter on distance sensor |  |  |
-| 1 | NI-MH Battery 4 AA Cells 2200mAh 4.8V | 
+| 1 | NI-MH Battery 4 AA Cells 2200mAh 4.8V | Robot Power Supply | pololu |  |
+| 1 | Mini Slide Switch 3 Pin SPDT 0.3A | Power Switch | Pololu | #1408 |
+| 2 | Heavy Duty Nylon Hinges | for Dozer's blade | DU-BRO | #257 |
+| 1 | Dozer Blade | Made from scrap sheet metal ? guage |  |  |
