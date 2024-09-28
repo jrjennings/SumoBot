@@ -18,6 +18,8 @@ dip switch (double) for turning off motors Philmore # 30-1002
 electrolytic capacitor 33uF 25v (on power rail near sensor leads)
 electrolytic Capacitor .47uF 50v(for low pass filter on distance sensor)
 electrolytic capacitor 47uF 10v (on controller pwr supply) to smooth voltage spikes
-resistor 12Kohm (for low pass filter on distance sensor)
+resistor 12Kohm 1/4 watt (for low pass filter on distance sensor)
 NI-MH Battery 4 AA Cells 2200mAh 4.8V  
-Mini Slide Switch 3.Pin SPDT, 0.3A Pololu # 1408  
+Mini Slide Switch 3.Pin SPDT, 0.3A Pololu # 1408
+2ea Heavy Duty nylon hinges DU-BRO Cat. No. 257 (for Dozers' blade)
+Dozers' blade made from scrap sheet metal.
