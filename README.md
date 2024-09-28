@@ -30,7 +30,7 @@ Basic MAZE Logic
 Formula for creating direction value dVal:  
 dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1  
 
-| qty  Name | Discription | Vendor | part # |
+| qty | Name | Discription | Vendor | part # |
 | --- | --- | --- | --- | --- |
 | 1 | Chassis | 3D Printed PLA | Home Made | |
 | 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |
