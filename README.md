@@ -29,3 +29,9 @@ Parts List
 | 1 | Sharp GP2Y0A21YK0F | Distance Sensor 10-80cm | Pololu | #136 |
 | 1 | 3-Pin Female JST PH-Style Cable (30cm) | for Sharp Distance Sensor| Pololu | #117 |
 | 2 | QTR-1A Reflectance Sensors | Line Sensors | Pololu | #2458 |
+| 1 | Dip Switch (double) | for turning off motors | Philmore | 30-1002 |
+| 1 | Electrolytic Capacitor 33uF 25v | on power to distance sensor |  |  |
+| 1 | Electrolytic Capacitor .47uF 50v | for low pass filter on distance sensor |  |  |
+| 1 | Electrolytic Capacitor 47uF 10v | for robot controller pwr supply to smooth voltage spikes |  |  |
+| 1 | resistor 12Kohm 1/4 watt | for low pass filter on distance sensor |  |  |
+| 1 | NI-MH Battery 4 AA Cells 2200mAh 4.8V | 
