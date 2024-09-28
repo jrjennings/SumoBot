@@ -12,7 +12,7 @@ Adjustable Boost Regulator 2.5-9.5V Pololu #791
 silicone tires (home made)
 2ea 150:1 Micro Metal Gearmotors MP Pololu #2368  
 Sharp GP2Y0A21YK0F Analog Distance Sensor 10-80cm Pololu #136  
-3-Pin Female JST PH-Style Cable (30cm) for Sharp Distance Sensors Pololu #117  
+3-Pin Female JST PH-Style Cable (30cm) 3-Pin Fema Pololu #117  
 2ea QTR-1A Reflectance Sensors Pololu # 2458    
 dip switch (double) for turning off motors Philmore # 30-1002  
 electrolytic capacitor 33uF 25v (on power rail near sensor leads)
@@ -25,18 +25,15 @@ Mini Slide Switch 3.Pin SPDT, 0.3A Pololu # 1408
 Dozers' blade made from scrap sheet metal.
 
 
-Basic MAZE Logic  
+Parts List  
 #########################################  
-Formula for creating direction value dVal:  
-dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1  
-
 | qty | Name | Discription | Vendor | part # |
 | --- | --- | --- | --- | --- |
 | 1 | Chassis | 3D Printed PLA | Home Made | |
 | 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |
 | 1 | Adjustable Boost Regulator 2.5-9.5V | Voltage Regulator | Pololu | #791 |
-| 110 | R | Right Turn (no straight path) |   |   |
-| 001 | S | * Left Branch |   |   |
-| 101 | L | Left turn (no straight path) |   |   |
-| 111 | B | * End of line |   |   |
-| 011 | S | Tracking Line |   |   |
+| 2 | Home made Silicone Tires | Silicone 30A & 20A | BBDINO |   |
+| 2 | 150:1 Micro Metal Gearmotors MP | Motors | Pololu | #2368  |
+| 1 | Sharp GP2Y0A21YK0F | Distance Sensor 10-80cm | Pololu | #136 |
+| 1 | 3-Pin Female JST PH-Style Cable (30cm) | for Sharp Distance Sensor| Pololu | #117 |
+| 2 | QTR-1A Reflectance Sensors | Line Sensors | Pololu | #2458 |
