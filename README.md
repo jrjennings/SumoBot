@@ -34,7 +34,7 @@ dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1
 | --- | --- | --- | --- | --- |
 | 1 | Chassis | 3D Printed PLA | Home Made | |
 | 1 | Baby Orangutang B328 | Robot Controller | Pololu | #1220 |
-| 000 | L | * 4Way |   |   |
+| 1 | Adjustable Boost Regulator 2.5-9.5V | Voltage Regulator | Pololu | #791 |
 | 110 | R | Right Turn (no straight path) |   |   |
 | 001 | S | * Left Branch |   |   |
 | 101 | L | Left turn (no straight path) |   |   |
