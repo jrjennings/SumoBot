@@ -26,4 +26,4 @@ Parts List:
 | 1 | NI-MH Battery 4 AA Cells 2200mAh 4.8V | Robot Power Supply | pololu | #2221 |
 | 1 | Mini Slide Switch 3 Pin SPDT 0.3A | Power Switch | Pololu | #1408 |
 | 2 | Heavy Duty Nylon Hinges | for Dozer's blade | DU-BRO | #257 |
-| 1 | Dozer Blade | Made from scrap sheet metal ? guage |  |  |
+| 1 | Dozer Blade | Made from scrap sheet metal 18 guage |  |  |
